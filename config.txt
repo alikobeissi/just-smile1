@@ -1,4 +1,4 @@
-owner=423566752341950465
+owner=431903399613693964
 prefix=1
 game=play
 stayinchannel=true
